@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borrero Fishing Tackle and Supplies</title>
+</head>
+<body>
+    <!-- Banner Area -->
+    <header>
+        <div id="banner">
+            <div id="logo">
+                <img src="image.png" alt="Company Logo" width="100" height="100">
+            </div>
+            <div id="company-name">
+                <h1>Borrero Fishing Tackle and Supplies</h1>
+            </div>
+        </div>
+    </header>
+    
+    <!-- Navigation Area -->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="cart.html">Shopping Cart</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+    </nav>
+    
+    <!-- Main Content Area -->
+    <main style="text-align: center; margin: 0 auto; max-width: 800px;">
+        <section id="current-sales">
+            <h2>Current Shop Sales</h2>
+            <article>
+                <h3>               3-Piece Travel Fishing Rod</h3>
+                <p>                     70% Off Original Price!</p>
+            </article>
+            <article>
+                <h3>               Insulated Waterproof Chest Waders</h3>
+                <p>                     Buy One get 50% off any pair of Boots Sitewide!</p>
+            </article>
+            
+        </section>
+    </main>
+    
+    <!-- Aside Area -->
+    <aside style="width: 1800px; text-align: center;">
+        <h2>Ads</h2>
+        <p>Check out our New Polarized Glasses Selection!</p>
+        <div class="ad">
+            <h3>Oakley Split Shot Glasses</h3>
+            <p>Exclusive Offer!</p>
+        </div>
+        <div class="ad">
+            <h3>Floating Polarized Sunglasses</h3>
+            <p>They float if you drop them in the Water!</p>
+        </div>
+    </aside>
+    
+    <!-- Footer Area -->
+    <footer style="text-align: center; margin: 0 auto; max-width: 800px;">
+        <ul style="list-style-type: none; padding: 0;">
+            <li><a href="terms.html">Terms of Use</a></li>
+            <li><a href="cookie.html">Cookie Policy</a></li>
+            <li><a href="privacy.html">Privacy Policy</a></li>
+            <li>&copy; Borrero Fishing Tackle and Supplies</li>
+        </ul>
+    </footer>
+</body>
+</html>
